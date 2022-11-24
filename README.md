@@ -3,7 +3,7 @@
 **BubbleSwap** is concentrated liquidity swap for [Aptos](https://www.aptos.com/) blockchain. 
 
 * [Website](https://bubbleswap.co)
-* [Documents](https:/docs.bubbleswap.co)
+* [Documents](https://docs.bubbleswap.co)
 
 The current repository contains: 
 
